@@ -1,0 +1,54 @@
+F:\Estágio\Estágio\bin\Debug\Estágio.exe.config
+F:\Estágio\Estágio\obj\Debug\Estágio.csprojResolveAssemblyReference.cache
+F:\Estágio\Estágio\obj\Debug\Estágio.Form1.resources
+F:\Estágio\Estágio\obj\Debug\Estágio.Properties.Resources.resources
+F:\Estágio\Estágio\obj\Debug\Estágio.csproj.GenerateResource.Cache
+F:\Estágio\Estágio\bin\Debug\Estágio.exe
+F:\Estágio\Estágio\bin\Debug\Estágio.pdb
+F:\Estágio\Estágio\obj\Debug\Estágio.exe
+F:\Estágio\Estágio\obj\Debug\Estágio.pdb
+F:\NAPNE ESTÁGIO\Estágio\Estágio\bin\Debug\Estágio.exe.config
+F:\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.exe
+F:\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.pdb
+F:\NAPNE ESTÁGIO\Estágio\Estágio\bin\Debug\Estágio.exe
+F:\NAPNE ESTÁGIO\Estágio\Estágio\bin\Debug\Estágio.pdb
+F:\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.csprojResolveAssemblyReference.cache
+F:\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Form1.resources
+F:\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Properties.Resources.resources
+F:\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.csproj.GenerateResource.Cache
+F:\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.BoaVisão.resources
+F:\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.especial.resources
+F:\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Física.resources
+F:\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Matemática.resources
+F:\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Química.resources
+F:\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.MATESP.resources
+C:\Users\labsc3\Downloads\NAPNE ESTÁGIO\Estágio\Estágio\bin\Debug\Estágio.exe.config
+C:\Users\labsc3\Downloads\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.exe
+C:\Users\labsc3\Downloads\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.pdb
+C:\Users\labsc3\Downloads\NAPNE ESTÁGIO\Estágio\Estágio\bin\Debug\Estágio.exe
+C:\Users\labsc3\Downloads\NAPNE ESTÁGIO\Estágio\Estágio\bin\Debug\Estágio.pdb
+C:\Users\labsc3\Downloads\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.csprojResolveAssemblyReference.cache
+C:\Users\labsc3\Downloads\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.BoaVisão.resources
+C:\Users\labsc3\Downloads\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Especial.resources
+C:\Users\labsc3\Downloads\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Form1.resources
+C:\Users\labsc3\Downloads\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Física.resources
+C:\Users\labsc3\Downloads\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Matemática.resources
+C:\Users\labsc3\Downloads\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.MATESP.resources
+C:\Users\labsc3\Downloads\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Properties.Resources.resources
+C:\Users\labsc3\Downloads\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Química.resources
+C:\Users\labsc3\Downloads\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\NAPNE ESTÁGIO\Estágio\Estágio\bin\Debug\Estágio.exe.config
+C:\Users\Usuario\Desktop\NAPNE ESTÁGIO\Estágio\Estágio\bin\Debug\Estágio.exe
+C:\Users\Usuario\Desktop\NAPNE ESTÁGIO\Estágio\Estágio\bin\Debug\Estágio.pdb
+C:\Users\Usuario\Desktop\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.BoaVisão.resources
+C:\Users\Usuario\Desktop\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Especial.resources
+C:\Users\Usuario\Desktop\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Form1.resources
+C:\Users\Usuario\Desktop\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Física.resources
+C:\Users\Usuario\Desktop\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Matemática.resources
+C:\Users\Usuario\Desktop\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.MATESP.resources
+C:\Users\Usuario\Desktop\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Properties.Resources.resources
+C:\Users\Usuario\Desktop\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.Química.resources
+C:\Users\Usuario\Desktop\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.exe
+C:\Users\Usuario\Desktop\NAPNE ESTÁGIO\Estágio\Estágio\obj\Debug\Estágio.pdb

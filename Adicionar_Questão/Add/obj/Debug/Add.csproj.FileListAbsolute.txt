@@ -1,0 +1,96 @@
+c:\users\labsc3\documents\visual studio 2013\Projects\Add\Add\bin\Debug\Add.exe.config
+c:\users\labsc3\documents\visual studio 2013\Projects\Add\Add\bin\Debug\Add.exe
+c:\users\labsc3\documents\visual studio 2013\Projects\Add\Add\bin\Debug\Add.pdb
+c:\users\labsc3\documents\visual studio 2013\Projects\Add\Add\obj\Debug\Add.csprojResolveAssemblyReference.cache
+c:\users\labsc3\documents\visual studio 2013\Projects\Add\Add\obj\Debug\Add.Add_Q.resources
+c:\users\labsc3\documents\visual studio 2013\Projects\Add\Add\obj\Debug\Add.Properties.Resources.resources
+c:\users\labsc3\documents\visual studio 2013\Projects\Add\Add\obj\Debug\Add.csproj.GenerateResource.Cache
+c:\users\labsc3\documents\visual studio 2013\Projects\Add\Add\obj\Debug\Add.exe
+c:\users\labsc3\documents\visual studio 2013\Projects\Add\Add\obj\Debug\Add.pdb
+C:\Users\Usuario\Desktop\Add\Add\bin\Debug\Add.exe.config
+C:\Users\Usuario\Desktop\Add\Add\bin\Debug\Add.exe
+C:\Users\Usuario\Desktop\Add\Add\bin\Debug\Add.pdb
+C:\Users\Usuario\Desktop\Add\Add\obj\Debug\Add.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Add\Add\obj\Debug\Add.Add_Q.resources
+C:\Users\Usuario\Desktop\Add\Add\obj\Debug\Add.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Add\Add\obj\Debug\Add.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Add\Add\obj\Debug\Add.exe
+C:\Users\Usuario\Desktop\Add\Add\obj\Debug\Add.pdb
+C:\Users\Usuario\Desktop\Queiroz\Add\Add\bin\Debug\Add.exe.config
+C:\Users\Usuario\Desktop\Queiroz\Add\Add\bin\Debug\Add.exe
+C:\Users\Usuario\Desktop\Queiroz\Add\Add\bin\Debug\Add.pdb
+C:\Users\Usuario\Desktop\Queiroz\Add\Add\obj\Debug\Add.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Queiroz\Add\Add\obj\Debug\Add.Ajuda.resources
+C:\Users\Usuario\Desktop\Queiroz\Add\Add\obj\Debug\Add.Add_Q.resources
+C:\Users\Usuario\Desktop\Queiroz\Add\Add\obj\Debug\Add.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Queiroz\Add\Add\obj\Debug\Add.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Queiroz\Add\Add\obj\Debug\Add.exe
+C:\Users\Usuario\Desktop\Queiroz\Add\Add\obj\Debug\Add.pdb
+C:\Users\labsc3\Desktop\Queiroz\Add\Add\bin\Debug\Add.exe.config
+C:\Users\labsc3\Desktop\Queiroz\Add\Add\obj\Debug\Add.exe
+C:\Users\labsc3\Desktop\Queiroz\Add\Add\obj\Debug\Add.pdb
+C:\Users\labsc3\Desktop\Queiroz\Add\Add\bin\Debug\Add.exe
+C:\Users\labsc3\Desktop\Queiroz\Add\Add\bin\Debug\Add.pdb
+C:\Users\labsc3\Desktop\Queiroz\Add\Add\obj\Debug\Add.csprojResolveAssemblyReference.cache
+C:\Users\labsc3\Desktop\Queiroz\Add\Add\obj\Debug\Add.Ajuda.resources
+C:\Users\labsc3\Desktop\Queiroz\Add\Add\obj\Debug\Add.Add_Q.resources
+C:\Users\labsc3\Desktop\Queiroz\Add\Add\obj\Debug\Add.Properties.Resources.resources
+C:\Users\labsc3\Desktop\Queiroz\Add\Add\obj\Debug\Add.csproj.GenerateResource.Cache
+C:\Users\labsc3\Desktop\Queiroz\Add\Add\obj\Debug\Add.Adicionar_Tópicos.resources
+C:\Users\Usuario\Desktop\Queiroz\Add\Add\obj\Debug\Add.Adicionar_Tópicos.resources
+C:\Users\Usuario\Desktop\Queiroz\Add\Add\obj\Debug\Add.Questões.resources
+C:\Users\Usuario\Desktop\Queiroz\Add\Add\obj\Debug\Add.Menu_de_Questões.resources
+C:\Users\labsc3\Desktop\Queiroz\Add\Add\obj\Debug\Add.Menu_de_Questões.resources
+C:\Users\labsc3\Desktop\Queiroz\Add\Add\obj\Debug\Add.Questões.resources
+C:\Users\labsc3\Desktop\Queiroz\Add\Add\obj\Debug\Add.Resposta_Correta.resources
+C:\Users\labsc3\Desktop\Queiroz\Add\Add\obj\Debug\Add.Resposta_Errada.resources
+C:\Users\Usuario\Desktop\Queiroz\Add\Add\obj\Debug\Add.Resposta_Correta.resources
+C:\Users\Usuario\Desktop\Queiroz\Add\Add\obj\Debug\Add.Resposta_Errada.resources
+C:\Users\Matheus\Desktop\Queiroz\Add\Add\bin\Debug\Add.exe.config
+C:\Users\Matheus\Desktop\Queiroz\Add\Add\bin\Debug\Add.exe
+C:\Users\Matheus\Desktop\Queiroz\Add\Add\bin\Debug\Add.pdb
+C:\Users\Matheus\Desktop\Queiroz\Add\Add\obj\Debug\Add.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\Queiroz\Add\Add\obj\Debug\Add.Adicionar_Tópicos.resources
+C:\Users\Matheus\Desktop\Queiroz\Add\Add\obj\Debug\Add.Ajuda.resources
+C:\Users\Matheus\Desktop\Queiroz\Add\Add\obj\Debug\Add.Add_Q.resources
+C:\Users\Matheus\Desktop\Queiroz\Add\Add\obj\Debug\Add.Menu_de_Questões.resources
+C:\Users\Matheus\Desktop\Queiroz\Add\Add\obj\Debug\Add.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Queiroz\Add\Add\obj\Debug\Add.Questões.resources
+C:\Users\Matheus\Desktop\Queiroz\Add\Add\obj\Debug\Add.Resposta_Correta.resources
+C:\Users\Matheus\Desktop\Queiroz\Add\Add\obj\Debug\Add.Resposta_Errada.resources
+C:\Users\Matheus\Desktop\Queiroz\Add\Add\obj\Debug\Add.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\Queiroz\Add\Add\obj\Debug\Add.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Queiroz\Add\Add\obj\Debug\Add.exe
+C:\Users\Matheus\Desktop\Queiroz\Add\Add\obj\Debug\Add.pdb
+C:\Users\Usuario\Documents\Queiroz\Add\Add\bin\Debug\Add.exe.config
+C:\Users\Usuario\Documents\Queiroz\Add\Add\bin\Debug\Add.exe
+C:\Users\Usuario\Documents\Queiroz\Add\Add\bin\Debug\Add.pdb
+C:\Users\Usuario\Documents\Queiroz\Add\Add\obj\Debug\Add.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Queiroz\Add\Add\obj\Debug\Add.Adicionar_Tópicos.resources
+C:\Users\Usuario\Documents\Queiroz\Add\Add\obj\Debug\Add.Ajuda.resources
+C:\Users\Usuario\Documents\Queiroz\Add\Add\obj\Debug\Add.Add_Q.resources
+C:\Users\Usuario\Documents\Queiroz\Add\Add\obj\Debug\Add.Menu_de_Questões.resources
+C:\Users\Usuario\Documents\Queiroz\Add\Add\obj\Debug\Add.Properties.Resources.resources
+C:\Users\Usuario\Documents\Queiroz\Add\Add\obj\Debug\Add.Questões.resources
+C:\Users\Usuario\Documents\Queiroz\Add\Add\obj\Debug\Add.Resposta_Correta.resources
+C:\Users\Usuario\Documents\Queiroz\Add\Add\obj\Debug\Add.Resposta_Errada.resources
+C:\Users\Usuario\Documents\Queiroz\Add\Add\obj\Debug\Add.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Queiroz\Add\Add\obj\Debug\Add.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Queiroz\Add\Add\obj\Debug\Add.exe
+C:\Users\Usuario\Documents\Queiroz\Add\Add\obj\Debug\Add.pdb
+C:\Users\Usuario\Documents\Queiroz um pouco diferente\Add\Add\bin\Debug\Add.exe.config
+C:\Users\Usuario\Documents\Queiroz um pouco diferente\Add\Add\bin\Debug\Add.exe
+C:\Users\Usuario\Documents\Queiroz um pouco diferente\Add\Add\bin\Debug\Add.pdb
+C:\Users\Usuario\Documents\Queiroz um pouco diferente\Add\Add\obj\Debug\Add.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Queiroz um pouco diferente\Add\Add\obj\Debug\Add.Adicionar_Tópicos.resources
+C:\Users\Usuario\Documents\Queiroz um pouco diferente\Add\Add\obj\Debug\Add.Ajuda.resources
+C:\Users\Usuario\Documents\Queiroz um pouco diferente\Add\Add\obj\Debug\Add.Add_Q.resources
+C:\Users\Usuario\Documents\Queiroz um pouco diferente\Add\Add\obj\Debug\Add.Menu_de_Questões.resources
+C:\Users\Usuario\Documents\Queiroz um pouco diferente\Add\Add\obj\Debug\Add.Properties.Resources.resources
+C:\Users\Usuario\Documents\Queiroz um pouco diferente\Add\Add\obj\Debug\Add.Questões.resources
+C:\Users\Usuario\Documents\Queiroz um pouco diferente\Add\Add\obj\Debug\Add.Resposta_Correta.resources
+C:\Users\Usuario\Documents\Queiroz um pouco diferente\Add\Add\obj\Debug\Add.Resposta_Errada.resources
+C:\Users\Usuario\Documents\Queiroz um pouco diferente\Add\Add\obj\Debug\Add.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Queiroz um pouco diferente\Add\Add\obj\Debug\Add.csproj.CopyComplete
+C:\Users\Usuario\Documents\Queiroz um pouco diferente\Add\Add\obj\Debug\Add.exe
+C:\Users\Usuario\Documents\Queiroz um pouco diferente\Add\Add\obj\Debug\Add.pdb
